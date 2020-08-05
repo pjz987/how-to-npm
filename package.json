@@ -1,7 +1,7 @@
 {
   "name": "@pjz987/how-to-npm",
-  "version": "1.0.0",
-  "description": "my how-to-npm exercises",
+  "version": "1.0.3",
+  "description": "my how-to-npm exercises, updated",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
