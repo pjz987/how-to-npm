@@ -16,7 +16,5 @@
     "url": "https://github.com/pjz987/how-to-npm/issues"
   },
   "homepage": "https://github.com/pjz987/how-to-npm#readme",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {}
 }
