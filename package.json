@@ -1,6 +1,6 @@
 {
   "name": "@pjz987/how-to-npm",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "my how-to-npm exercises, updated",
   "main": "index.js",
   "scripts": {
